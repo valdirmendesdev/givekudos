@@ -6,12 +6,12 @@ import (
 	"net/http"
 )
 
-func healthStatus(w http.ResponseWriter, r *http.Request)  {
+func healthStatus(w http.ResponseWriter, _ *http.Request) {
 	w.Header().Set("Content-type", "application/json")
 	w.Write([]byte(`{"message":"ok"}`))
 }
 
-func users(w http.ResponseWriter, r *http.Request)  {
+func users(w http.ResponseWriter, _ *http.Request) {
 	w.Header().Set("Content-type", "application/json")
 	w.Write([]byte(`{"message":"users"}`))
 }
