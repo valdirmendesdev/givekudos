@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="390055f5-33eb-40fc-b60c-4597a13bccc1" name="Default Changelist" comment="" />
+    <list default="true" id="390055f5-33eb-40fc-b60c-4597a13bccc1" name="Default Changelist" comment="Removing unused variables">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +37,9 @@
     </option>
   </component>
   <component name="GOROOT" path="$USER_HOME$/.asdf/installs/golang/1.15.3/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
   </component>
@@ -29,7 +54,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -57,6 +82,22 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Removing unused variables" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removing unused variables" />
+  </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
   </component>
@@ -69,22 +110,34 @@
       <screen x="0" y="0" width="3440" height="1440" />
     </state>
     <state x="2038" y="379" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1440/-1680.0.1680.1050@0.0.3440.1440" timestamp="1604544493379" />
-    <state width="1691" height="414" key="GridCell.Tab.0.bottom" timestamp="1604545298032">
+    <state x="2354" y="430" key="#com.intellij.ide.util.MemberChooser" timestamp="1604630461823">
       <screen x="0" y="0" width="3440" height="1440" />
     </state>
-    <state width="1691" height="414" key="GridCell.Tab.0.bottom/0.0.3440.1440/-1680.0.1680.1050@0.0.3440.1440" timestamp="1604545298032" />
-    <state width="1691" height="414" key="GridCell.Tab.0.center" timestamp="1604545298031">
+    <state x="2354" y="430" key="#com.intellij.ide.util.MemberChooser/0.0.3440.1440/-1680.0.1680.1050@0.0.3440.1440" timestamp="1604630461823" />
+    <state x="2167" y="292" key="CommitChangelistDialog2" timestamp="1604545358762">
       <screen x="0" y="0" width="3440" height="1440" />
     </state>
-    <state width="1691" height="414" key="GridCell.Tab.0.center/0.0.3440.1440/-1680.0.1680.1050@0.0.3440.1440" timestamp="1604545298031" />
-    <state width="1691" height="414" key="GridCell.Tab.0.left" timestamp="1604545298031">
+    <state x="2167" y="292" key="CommitChangelistDialog2/0.0.3440.1440/-1680.0.1680.1050@0.0.3440.1440" timestamp="1604545358762" />
+    <state width="1691" height="414" key="GridCell.Tab.0.bottom" timestamp="1604715026104">
       <screen x="0" y="0" width="3440" height="1440" />
     </state>
-    <state width="1691" height="414" key="GridCell.Tab.0.left/0.0.3440.1440/-1680.0.1680.1050@0.0.3440.1440" timestamp="1604545298031" />
-    <state width="1691" height="414" key="GridCell.Tab.0.right" timestamp="1604545298032">
+    <state width="1691" height="414" key="GridCell.Tab.0.bottom/0.0.3440.1440/-1680.0.1680.1050@0.0.3440.1440" timestamp="1604715026104" />
+    <state width="1691" height="414" key="GridCell.Tab.0.center" timestamp="1604715026103">
       <screen x="0" y="0" width="3440" height="1440" />
     </state>
-    <state width="1691" height="414" key="GridCell.Tab.0.right/0.0.3440.1440/-1680.0.1680.1050@0.0.3440.1440" timestamp="1604545298032" />
+    <state width="1691" height="414" key="GridCell.Tab.0.center/0.0.3440.1440/-1680.0.1680.1050@0.0.3440.1440" timestamp="1604715026103" />
+    <state width="1691" height="414" key="GridCell.Tab.0.left" timestamp="1604715026102">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="1691" height="414" key="GridCell.Tab.0.left/0.0.3440.1440/-1680.0.1680.1050@0.0.3440.1440" timestamp="1604715026102" />
+    <state width="1691" height="414" key="GridCell.Tab.0.right" timestamp="1604715026103">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="1691" height="414" key="GridCell.Tab.0.right/0.0.3440.1440/-1680.0.1680.1050@0.0.3440.1440" timestamp="1604715026103" />
+    <state x="2173" y="457" key="Vcs.Push.Dialog.v2" timestamp="1604545399951">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="2173" y="457" key="Vcs.Push.Dialog.v2/0.0.3440.1440/-1680.0.1680.1050@0.0.3440.1440" timestamp="1604545399951" />
     <state x="1807" y="100" width="1533" height="1240" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1604545267900">
       <screen x="0" y="0" width="3440" height="1440" />
     </state>
